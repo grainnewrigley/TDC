@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<img src="https://grainnewrigley.github.io/TDC//images/Header-temporary.jpg" alt="Header Temporary">
+<img src="{{ base_path }}/images/Header-temporary.jpg" alt="Header Temporary">
 
 ## About Two Degrees Cooler
 

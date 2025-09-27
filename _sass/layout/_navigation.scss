@@ -171,11 +171,14 @@
 /*
    Priority plus navigation
    ========================================================================== */
-
 .greedy-nav {
   position: relative;
-  min-width: 250px;
+  min-width: 400px;
   background: var(--global-bg-color);
+  display: flex; /* 1. Use Flexbox */
+  justify-content: flex-end; /* 2. Push content to the right */
+  align-items: center; /* 3. Vertically align items */
+  /* --- END CHANGES --- */
 
   a {
     display: block;
@@ -203,12 +206,18 @@
   }
 
   .visible-links {
-    display: table;
+    display: flex; /* 4. Change from 'display: table' to 'flex' */
+    list-style: none; /* Good practice for nav lists */
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove default padding */
+    margin-right: 50px; 
 
     li {
-      display: table-cell;
-      vertical-align: middle;
-
+      /* --- START CHANGES --- */
+      display: block; /* Change from 'display: table-cell' */
+      /* Remove 'vertical-align: middle' as it's handled by 'align-items: center' on the parent */
+      /* --- END CHANGES --- */
+      
       &:first-child {
         font-weight: bold;
         text-wrap: wrap;
@@ -219,6 +228,8 @@
       }
 
       &:last-child {
+        font-weight: bold;
+
         a {
           margin-right: 0;
         }

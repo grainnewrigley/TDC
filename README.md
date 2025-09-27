@@ -94,3 +94,11 @@ Unfortunately, one logistical issue with a template theme like Academic Pages th
 [![GitHub stars](https://img.shields.io/github/stars/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io)
 [![GitHub forks](https://img.shields.io/github/forks/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/fork)
 </div>
+
+#Changes
+
+My version of the site features 'about' as the homepage, 'blog posts', and 'data analysis' as publications. It does not include teaching, talks, or portfolio (or CV or guide). 
+
+To add a blog post, add a file under 'pages'.
+
+To add a data analysis project, add a file under 'publications'.

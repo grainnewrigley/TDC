@@ -1,0 +1,7 @@
+.project-image {
+  margin-top: 20px;    /* space above */
+  margin-bottom: 20px; /* space below */
+  display: block;      /* ensures vertical margins are applied */
+  max-width: 100%;     /* scales image to container width */
+  height: auto;        /* maintain aspect ratio */
+}

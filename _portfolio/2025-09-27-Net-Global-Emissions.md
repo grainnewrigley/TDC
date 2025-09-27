@@ -1,6 +1,6 @@
 ---
 title: "Net Global Emissions"
-excerpt: "A visualisation of net global C02 emissions per EU country<br/><img src='https://grainnewrigley.github.io/TDC/images/Net Greenhouse Gas Emissions.png'>"
+excerpt: "A visualisation of net global C02 emissions per EU country<br/><img src='/images/Net Greenhouse Gas Emissions.png'>"
 collection: portfolio
 ---
 {% include base_path %}

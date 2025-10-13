@@ -171,14 +171,11 @@
 /*
    Priority plus navigation
    ========================================================================== */
+
 .greedy-nav {
   position: relative;
-  min-width: 400px;
-  background: var(--global-border-color);
-  display: flex; /* 1. Use Flexbox */
-  justify-content: flex-end; /* 2. Push content to the right */
-  align-items: center; /* 3. Vertically align items */
-  /* --- END CHANGES --- */
+  min-width: 250px;
+  background: var(--global-bg-color);
 
   a {
     display: block;
@@ -199,25 +196,19 @@
     padding: 0 0.5rem;
     border: 0;
     outline: none;
-    background-color: var(--global-border-color);
+    background-color: var(--global-base-color);
     color: #fff;
     cursor: pointer;
     z-index: 100;
   }
 
   .visible-links {
-    display: flex; /* 4. Change from 'display: table' to 'flex' */
-    list-style: none; /* Good practice for nav lists */
-    margin: 0; /* Remove default margin */
-    padding: 0; /* Remove default padding */
-    margin-right: 50px; 
+    display: table;
 
     li {
-      /* --- START CHANGES --- */
-      display: block; /* Change from 'display: table-cell' */
-      /* Remove 'vertical-align: middle' as it's handled by 'align-items: center' on the parent */
-      /* --- END CHANGES --- */
-      
+      display: table-cell;
+      vertical-align: middle;
+
       &:first-child {
         font-weight: bold;
         text-wrap: wrap;
@@ -228,8 +219,6 @@
       }
 
       &:last-child {
-        font-weight: bold;
-
         a {
           margin-right: 0;
         }
@@ -279,7 +268,7 @@
     padding: 5px;
     border: 1px solid var(--global-border-color);
     border-radius: $border-radius;
-    background: var(--global-border-color);
+    background: #fff;
     box-shadow: 0 0 10px rgba(#000, 0.25);
 
     a {

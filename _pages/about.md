@@ -13,7 +13,9 @@ redirect_from:
 
 <img src="{{ base_path }}/images/Header-temporary.jpg" alt="Header Temporary">
 
-## About Two Degrees Cooler
+> **_NOTE:_** This website is under construciton. We are currently in the process of moving over content. 
+
+## About Us
 
 Two Degrees Cooler is a climate and sustainability education organisation, founded in 2021. Through social media and blog posts, our goal is to inspire the public to take an interest in environmental issues through science communication. Beginning as a blog, the project has expanded to social media, data analysis and projects like Spotlight. 
 

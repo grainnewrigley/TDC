@@ -13,7 +13,9 @@ redirect_from:
 
 <img src="{{ base_path }}/images/Header-temporary.jpg" alt="Header Temporary">
 
-> **_NOTE:_** This website is under construciton. We are currently in the process of moving over content. 
+<div style="background-color: #2fc2c1; padding: 15px; color: #333;">
+NOTE: This website is under construction. We are currently in the process of moving over content.
+</div>
 
 ## About Us
 

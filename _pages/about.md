@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-<title>Two Degrees Cooler</title>
-
 {% include base_path %}
 
 <img src="{{ base_path }}/images/Header-temporary.jpg" alt="Header Temporary">

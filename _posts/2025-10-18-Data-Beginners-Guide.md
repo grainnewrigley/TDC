@@ -1,5 +1,5 @@
 ---
-title: 'Understanding Environmental Data: A Beginner`s Guide'
+title: 'Understanding Environmental Data: A Beginners Guide'
 date: 2025-10-18
 permalink: /posts/2025/02/environmental-data-beginners-guide/
 tags:

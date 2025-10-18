@@ -1,7 +1,7 @@
 ---
 title: 'New Project: Spotlights'
 date: 2025-02-02
-permalink: /posts/2012/08/new-project-spotlight/
+permalink: /posts/2025/02/new-project-spotlight/
 tags:
   - event
 ---

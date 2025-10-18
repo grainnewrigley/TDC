@@ -3,8 +3,8 @@ title: 'Environmental Dataset Library'
 date: 2025-10-18
 permalink: /posts/2025/10/environmental-datasets
 tags:
-  - data analysis
-  - resource
+  - Data Analysis
+  - Resource
 ---
 This is a collection of open source UK and global environmental datasets. 
 

@@ -3,7 +3,7 @@ title: 'New Project: Spotlights'
 date: 2025-02-02
 permalink: /posts/2025/02/new-project-spotlight/
 tags:
-  - announcement
+  - Announcement
 ---
 Two Degrees Cooler is launching Spotlights, a project highlighting a different environmental issue each month through articles, news, and art on Bluesky and my website.
 

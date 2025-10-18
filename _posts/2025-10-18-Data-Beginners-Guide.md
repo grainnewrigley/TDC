@@ -3,8 +3,8 @@ title: 'Understanding Environmental Data: A Beginners Guide'
 date: 2025-10-18
 permalink: /posts/2025/02/environmental-data-beginners-guide/
 tags:
-  - data analysis
-  - resource
+  - Data Analysis
+  - Resource
 ---
 
 This beginners guide will teach you about the different types of environmental data and how to interact with them.
